@@ -1,6 +1,6 @@
 # NLS Fellowship 2024
  
-This repository contains a series of Jupyter Notebooks developed during the NLS Fellowship 2024 to interact with the Archive of Tomorrow - Talking about Health web archive collection metadata. The notebooks guide users through various data processing and analysis steps, from metadata conversion to visualization.
+This repository contains a series of Jupyter Notebooks developed during the National Librarian’s Research Fellowship in Digital Scholarship 2024-25  to interact with the Archive of Tomorrow - Talking about Health web archive collection metadata. The notebooks guide users through various data processing and analysis steps, from metadata conversion to visualization.
 
 ## Project Structure
 
