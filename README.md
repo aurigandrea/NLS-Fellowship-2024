@@ -11,7 +11,7 @@ This repository contains a series of Jupyter Notebooks developed during the NLS 
 - `Step_5_keyword_wordcloud.ipynb`: Creates word clouds based on extracted keywords.
 - `Step_6_Text analysis and visualisation`: Coming soon.
 - `Experiments`: Some codes and outputs for performance evaluation.
-- `AoT_data_enhanced_labeled`: The final enhanced dataset. It contains a URL valid at the time of uploading, scraped information (title, keywords, summaries, full_text, if available), LLM-generated summaries, manual category labels, predicted category labels, and the confidence score of the prediction.
+- `AoT_data_enhanced_labeled`: The final enhanced dataset. It contains a URL valid at the time of uploading, scraped information (title, keywords, summaries, full_text -if available-, LLM-generated summaries, manual category labels, predicted category labels, and the confidence score of the prediction.
 
 ## Data
 
