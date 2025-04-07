@@ -12,10 +12,7 @@ This repository contains a series of Jupyter Notebooks developed during the NLS 
 - `Step_6_Text analysis and visualisation`: Coming soon.
 - `Experiments`: Some codes and outputs for performance evaluation.
 - `AoT_data_enhanced_labeled`: The final enhanced dataset. It contains a URL valid at the time of uploading, scraped information (title, keywords, summaries, full_text -if available-, LLM-generated summaries, manual category labels, predicted category labels, and the confidence score of the prediction.
-
-## Data
-
-The `data` directory contains datasets used across the notebooks. Ensure that the required data files are present before running the notebooks.
+- `Data`: The `data` directory contains datasets used across the notebooks. Ensure that the required data files are present before running the notebooks.
 
 ## Setup Instructions
 
@@ -31,7 +28,7 @@ To set up the environment and run the notebooks locally:
    ```bash
    python -m venv venv
    source venv/bin/activate
-  # On Windows: venv\Scripts\activate
+  ***On Windows: venv\Scripts\activate***
 
 2. **Install requirements:**
      ```bash
