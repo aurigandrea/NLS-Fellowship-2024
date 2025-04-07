@@ -25,3 +25,37 @@ To set up the environment and run the notebooks locally:
 
    ```bash
    git clone https://github.com/aurigandrea/NLS-Fellowship-2024.git
+
+2. **Create a virtual environment (optional):**
+
+   ```bash
+   python -m venv venv
+   source venv/bin/activate
+  # On Windows: venv\Scripts\activate
+
+2. **Install requirements:**
+     ```bash
+   pip install -r requirements.txt
+
+4. **Lanuch jupyter notebook**
+     ```bash
+     jupyter notebook
+
+## 🔗 Launch on Binder
+
+[![Launch Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/aurigandrea/NLS-Fellowship-2024/HEAD)
+
+Or launch a specific notebook directly (make sure to grab the relevant data or use your own):
+
+- 📄 [Step 1 – JSON to CSV](https://mybinder.org/v2/gh/aurigandrea/NLS-Fellowship-2024/HEAD?filepath=Step_1_JSON_metadata_to_CSV.ipynb)
+- 🔗 [Step 2 – Link Checker](https://mybinder.org/v2/gh/aurigandrea/NLS-Fellowship-2024/HEAD?filepath=Step_2_Link_checker.ipynb)
+- 🧠 [Step 3 – Enhancing Metadata](https://mybinder.org/v2/gh/aurigandrea/NLS-Fellowship-2024/HEAD?filepath=Step_3_Enhancing_the_metadata.ipynb)
+- 🤖 [Step 4 – LLM Summaries](https://mybinder.org/v2/gh/aurigandrea/NLS-Fellowship-2024/HEAD?filepath=Step_4_LLM_Summaries.ipynb)
+- ☁️ [Step 5 – Keyword Wordcloud](https://mybinder.org/v2/gh/aurigandrea/NLS-Fellowship-2024/HEAD?filepath=Step_5_keyword_wordcloud.ipynb)
+
+
+👤 Author and license
+Andrea Kocsis
+Developed during the NLS Fellowship 2024.
+Feel free to explore, use, or build upon this work! MIT License. 
+Data owner: National Library of Scotland, CC_BY4
