@@ -51,8 +51,12 @@ Or launch a specific notebook directly (make sure to grab the relevant data or u
 - ☁️ [Step 5 – Keyword Wordcloud](https://mybinder.org/v2/gh/aurigandrea/NLS-Fellowship-2024/HEAD?filepath=Step_5_keyword_wordcloud.ipynb)
 
 
-👤 Author and license
+## 👤 Author and license
 Andrea Kocsis
+
 Developed during the NLS Fellowship 2024.
+
 Feel free to explore, use, or build upon this work! MIT License. 
+
 Data owner: National Library of Scotland, CC_BY4
+Find out more about the project [here:](https://aotfornls.netlify.app/).
