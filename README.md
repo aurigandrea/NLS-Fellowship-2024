@@ -6,7 +6,7 @@ This repository contains a series of Jupyter Notebooks developed during the Nati
 
 - `Step_1_JSON_metadata_to_CSV.ipynb`: Converts JSON metadata files into CSV format for easier analysis.
 - `Step_2_Link_checker.ipynb`: Validates URLs in the dataset to ensure they are accessible.
-- `Step_3_Enhancing_the_metadata.ipynb`: Enriches the existing metadata with additional information.
+- `Step_3_Enhancing_the_metadata.ipynb`: Enriches the existing metadata with additional information using Newspaper3k package.
 - `Step_4_LLM_Summaries.ipynb`: Generates summaries using LLMs.
 - `Step_5_keyword_wordcloud.ipynb`: Creates word clouds based on extracted keywords.
 - `Step_6_Text analysis and visualisation`: Coming soon.
