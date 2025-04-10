@@ -1,0 +1,13 @@
+pandas
+numpy
+requests
+beautifulsoup4
+spacy
+newspaper3k
+transformers
+torch
+tqdm
+matplotlib
+seaborn
+wordcloud
+scikit-learn
