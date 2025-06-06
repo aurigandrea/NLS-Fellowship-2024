@@ -60,3 +60,4 @@ Feel free to explore, use, or build upon this work! MIT License.
 
 Data owner: National Library of Scotland, CC_BY4
 Find out more about the project [here:](https://aotfornls.netlify.app/).
+Find the original data and the Datasheet for Dataset [here:](https://data.nls.uk/data/metadata-collections/archive-of-tomorrow-project/)
